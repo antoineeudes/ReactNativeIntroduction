@@ -16,7 +16,8 @@ const App = () => (
 
 const styles = StyleSheet.create({
   body: {
-    margin: 50
+    marginVertical: 50,
+    marginHorizontal: 25,
   }
 })
 
